@@ -1,2 +1,2 @@
 # Stock_Stalkers
-ML project repo
+CAPP 30254 ML Project - Stock Price Prediction
